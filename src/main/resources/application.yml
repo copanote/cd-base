@@ -1,0 +1,6 @@
+#common properties
+
+
+spring:
+  application:
+    name: apay
