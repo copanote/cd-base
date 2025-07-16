@@ -31,4 +31,10 @@ TDD가 가능할까...
 Swagger 
 wiki 혹은 document 관련 구성 
   
- 
+## 코드컨벤션
+spotless - palantirJavaFormat
+CI/CD 프로세스에 포함..
+
+#형상관리 
+git - gitlab
+
